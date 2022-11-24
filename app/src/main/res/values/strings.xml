@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Jualan Hape</string>
+    <string name="content_text">
+    OPPO A5s merupakan HP dengan layar 6.2" dan tingkat densitas piksel sebesar 271ppi. Ia dilengkapi dengan kamera belakang 13 + 2MP dan kamera depan 8MP. HP ini juga hadir dengan kapasitas baterai 4230mAh. OPPO A5s dirilis pada: 2019.    </string>
+    <string name="content_specs_display">Layar: 6.2 inci S-IPS LCD, 720 x 1520 pixels (~271 ppi density)
+    </string>
+    <string name="content_specs_size">155.9 x 75.4 x 8.2 mm</string>
+    <string name="content_specs_battery"> 4230 mAh </string>
+    <string name="stock">Stock 100 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Rizki Hanif Prasetyo</string>
+    <string name="buy">Beli Product</string>
+    <string name="dummy_value">Rp.3.999.000</string>
+    <string name="dummy_photos">10 photos</string>
+    <string name="call">Hubungi Saya</string>
+    <string name="berhasil">Order Berhasil</string>
+</resources>
